@@ -1,0 +1,11 @@
+{
+    "name": "BOOM",
+    "symbol": "BOOM",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://scan.factorychain.io/#/tokens/0xb4341ae87e1f243d31f0e343535cbd33650b17eb",
+    "status": "active",
+    "id": "0xb4341ae87e1f243d31f0e343535cbd33650b17eb"
+}

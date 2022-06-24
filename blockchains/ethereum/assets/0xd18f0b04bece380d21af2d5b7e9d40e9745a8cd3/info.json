@@ -1,0 +1,11 @@
+{
+    "name": "FUSD",
+    "symbol": "FUSD",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://scan.factorychain.io/#/tokens/0xd18f0b04bece380d21af2d5b7e9d40e9745a8cd3",
+    "status": "active",
+    "id": "0xd18f0b04bece380d21af2d5b7e9d40e9745a8cd3"
+}

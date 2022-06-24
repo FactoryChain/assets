@@ -1,0 +1,11 @@
+{
+    "name": "BPT",
+    "symbol": "BPT",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://testnet.factorychain.io/address/0x3d3a04bb7f3c0d4a586ccf4b5e8fa8409f0d82db",
+    "status": "active",
+    "id": "0x3d3a04bb7f3c0d4a586ccf4b5e8fa8409f0d82db"
+}

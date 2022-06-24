@@ -1,0 +1,11 @@
+{
+    "name": "FPVU Token",
+    "symbol": "FPVU",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://scan.factorychain.io/#/address/0x164bec63575f49ac7fc6b68526bbf5205bdbb301",
+    "explorer": "",
+    "status": "active",
+    "id": "0x164bec63575f49ac7fc6b68526bbf5205bdbb301"
+}

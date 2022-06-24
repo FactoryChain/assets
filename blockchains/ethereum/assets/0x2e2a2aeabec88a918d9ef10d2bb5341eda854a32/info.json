@@ -1,0 +1,11 @@
+{
+    "name": "Kubird",
+    "symbol": "Kubird",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "",
+    "explorer": "https://scan.factorychain.io/#/address/0x2e2a2aeabec88a918d9ef10d2bb5341eda854a32",
+    "status": "active",
+    "id": "0x2e2a2aeabec88a918d9ef10d2bb5341eda854a32"
+}
